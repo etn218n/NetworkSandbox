@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NolNetwork", "NolNetwork\NolNetwork.csproj", "{6ED93BE4-4A88-4F24-923B-CA6B84DB57F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{E80E90E1-5457-4EAD-A081-6BC5F703B6B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED93BE4-4A88-4F24-923B-CA6B84DB57F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED93BE4-4A88-4F24-923B-CA6B84DB57F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED93BE4-4A88-4F24-923B-CA6B84DB57F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED93BE4-4A88-4F24-923B-CA6B84DB57F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80E90E1-5457-4EAD-A081-6BC5F703B6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80E90E1-5457-4EAD-A081-6BC5F703B6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80E90E1-5457-4EAD-A081-6BC5F703B6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80E90E1-5457-4EAD-A081-6BC5F703B6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
